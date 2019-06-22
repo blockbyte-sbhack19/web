@@ -1,3 +1,7 @@
+# LendIt prototype using Django
+
+Deprecated in favor of Flutter, see https://github.com/blockbyte-sbhack19/frontend
+
 
 ### HOW to run
 `python manage.py migrate`     # create database
