@@ -32,6 +32,8 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'issue.apps.IssueConfig',
+    'rent.apps.RentConfig',
+    'release.apps.ReleaseConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',

@@ -13,11 +13,13 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
-from django.conf.urls import url
+
+from django.conf.urls import include, url
 from django.contrib import admin
 
-admin.site.site_header = 'LendIt administration'
-
 urlpatterns = [
+    url(r'^issue/', include('issue.urls')),
+    url(r'^rent/', include('rent.urls')),
+    url(r'^release/', include('release.urls')),
     url(r'^admin/', admin.site.urls),
 ]
