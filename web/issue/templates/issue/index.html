@@ -1,0 +1,9 @@
+{% if latest_soil_list %}
+    <ul>
+    {% for soil in latest_soil_list %}
+        <li><a href="/detail/{{ soil.id }}/">{{ soil.location }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No soils are available.</p>
+{% endif %}
