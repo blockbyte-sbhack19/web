@@ -1,57 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfdebfe7-b8e8-4789-9dd6-4cbd70e2cb27" name="Default Changelist" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/details/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/details/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/migrations/0002_auto_20190622_0639.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/migrations/0002_auto_20190622_0639.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/migrations/0003_auto_20190622_0701.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/migrations/0003_auto_20190622_0701.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/templates/issue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/issue/templates/issue/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/issue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/issue/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/release/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/release/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/rent/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rent/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/wsgi.py" afterDir="false" />
+    <list default="true" id="bfdebfe7-b8e8-4789-9dd6-4cbd70e2cb27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -73,12 +28,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="50" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,6 +75,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>latest_question_list</find>
+      <find>TEMPLATES</find>
     </findStrings>
     <replaceStrings>
       <replace>latest_soil_list</replace>
@@ -102,7 +88,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/details/views.py" />
-        <option value="$PROJECT_DIR$/web/urls.py" />
         <option value="$PROJECT_DIR$/web/web/settings.py" />
         <option value="$PROJECT_DIR$/web/issue/admin.py" />
         <option value="$PROJECT_DIR$/web/details/urls.py" />
@@ -114,12 +99,16 @@
         <option value="$PROJECT_DIR$/web/web/urls.py" />
         <option value="$PROJECT_DIR$/web/issue/models.py" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/urls.py" />
+        <option value="$PROJECT_DIR$/web/settings.py" />
+        <option value="$PROJECT_DIR$/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/web/urls.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1302" />
+    <option name="width" value="895" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -133,6 +122,11 @@
           <expand>
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -179,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561184065600</updated>
-      <workItem from="1561184068714" duration="4518000" />
+      <workItem from="1561184068714" duration="5678000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1561188419466</created>
@@ -188,11 +182,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561188419466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="move all up add readme">
+      <created>1561188864425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561188864425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="improved readme">
+      <created>1561189093287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561189093287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4518000" />
+    <option name="totallyTimeSpent" value="5678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,17 +212,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1302" height="947" extended-state="0" />
+    <frame x="0" y="23" width="895" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26904762" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39742085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -236,7 +244,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="move all up add readme" />
+    <MESSAGE value="improved readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/details/views.py">
@@ -356,6 +366,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="50" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -363,16 +407,6 @@
           <folding>
             <element signature="e#637#669#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
